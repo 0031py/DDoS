@@ -1,0 +1,9 @@
+socket
+threading
+random
+time
+colorama
+platform
+ctypes
+subprocess
+os
